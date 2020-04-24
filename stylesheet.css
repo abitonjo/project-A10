@@ -113,3 +113,56 @@ header{
   background-size: cover;
   height: 786px;
 }
+
+.profile-wrapper {
+  width: 100%;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 161px;
+  padding-bottom: 23px;
+}
+
+.heading h1 {
+  font-weight: bold;
+  color: #FFB800;
+}
+
+.heading p {
+  font-size: 24px;
+  font-weight: normal;
+  color: black;
+}
+
+.profile {
+  float: left;
+}
+
+.card {
+  padding: 42px 20px;
+}
+
+.profile-icon {
+  position: relative;
+}
+
+.profile-icon h3 {
+  position: absolute;
+  top: 100%;
+  width: 100%;
+  color: #FFB800;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.text-contents {
+  width: 100%;
+  display: inline-block;
+  margin-top: 45px;
+  font-size: 16px;
+}
+
+.profil {
+  background-color: #f46f30;
+}
